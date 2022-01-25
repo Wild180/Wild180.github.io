@@ -1,0 +1,5 @@
+game: "cry lol"
+:'(
+
+when click option, "action message" below (ex, "make your move") changes to do with the option
+(ex, Click Mono, "Psst, hey!"..   Click Stalk, "He watches."..   Click Six, "...oi."..)
